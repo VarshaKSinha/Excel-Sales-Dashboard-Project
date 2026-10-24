@@ -8,7 +8,7 @@ The dashboard helps users understand monthly sales trends, compare country-wise 
 
 ## 🖼️ Dashboard Preview
 
-![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
+![Executive Sales Dashboard](Dashboard.png)
 
 ## ✨ Key Features
 
