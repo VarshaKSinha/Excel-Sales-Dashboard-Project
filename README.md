@@ -1,4 +1,4 @@
-# 📊 Executive Sales Data Dashboard (Excel)
+# 📊 Executive Sales Data Dashboard
 
 ## 📌 Project Overview
 
